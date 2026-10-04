@@ -1,0 +1,15 @@
+:root {
+  color: #19362d;
+  background: #f8faf6;
+  font-family: 'DM Sans', sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+}
+
+html { min-width: 320px; min-height: 100%; background: #f8faf6; }
+body { min-width: 320px; min-height: 100vh; margin: 0; }
+button { color: inherit; }
+#root { min-height: 100vh; }
